@@ -1,4 +1,9 @@
 # Real Time Cricket Match Outcome Prediction
+## Group Members
+1) Taha Tahir
+2) Gulistan Khan
+3) Muhammad Anas
+   
 ## Introduction
 We utilized a dataset of past T20 international matches from CRICSHEET and trained a deep neural network to provide the winning probability for teams after each ball of the game.
 
